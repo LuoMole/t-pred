@@ -33,4 +33,5 @@ such as
 
 
 
-6: The GUI and web service for t-pred is coming
+6: To get access to the GUI, please open the GUI.exe. 
+After submitting the relative path, TCR, and epitope data of the model, click the "提交" button to obtain the prediction results
