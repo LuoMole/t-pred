@@ -24,7 +24,7 @@ so that you can figure out the meaning of each parameter
 
 4: Once you finish the training process, you can run the test process
 ~~~bash
-python test_FNNemb.py # take the FNNemb model for example
+python test_FNNemb.py   # take the FNNemb model for example
 ~~~
 5: Both train and test result will be stored in the "fig" folder
 such as
