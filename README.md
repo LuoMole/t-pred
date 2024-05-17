@@ -18,13 +18,13 @@ python train_FNNemb.py # take the FNNemb model for example
 ~~~
 Or you can get some help by
 ~~~
-python train_FNNemb.py -h # take the FNNemb model for example
+python train_FNNemb.py -h 
 ~~~
 so that you can figure out the meaning of each parameter
 
 4: Once you finish the training process, you can run the test process
 ~~~bash
-python test_FNNemb.py   # take the FNNemb model for example
+python test_FNNemb.py  
 ~~~
 5: Both train and test result will be stored in the "fig" folder
 such as
