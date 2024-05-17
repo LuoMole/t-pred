@@ -32,6 +32,12 @@ such as
 ![](https://github.com/LuoMole/t-pred/blob/main/model_better/bert/auc_val.png)
 
 
+6: To get access to the GUI, please download the GUI.exe, which is available at https://1drv.ms/u/c/d530cdfc41614d1d/ERVdeEDAeMJDmdOGorG7nWUBGPC-7PMoP6loHxaJCWhtiw?e=yvufmM .
 
-6: To get access to the GUI, please open the GUI.exe. 
-After submitting the relative path, TCR, and epitope data of the model, click the "提交" button to obtain the prediction results
+Please ensure that the exe and model files are under the same folder.
+
+After submitting the relative path, TCR, and epitope data of the model, click the "提交" button to obtain the prediction results.
+Following are some usage scenarios of the GUI.
+
+![](https://github.com/LuoMole/t-pred/blob/main/fig/af4010e7e0cb7f2c8563f07281a3032.png)
+![](https://github.com/LuoMole/t-pred/blob/main/fig/e76d08cfb9ec56baa49b4a4ea75654c.png)
