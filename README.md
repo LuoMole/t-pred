@@ -30,4 +30,7 @@ python test_FNNemb.py
 such as
 ![](https://github.com/LuoMole/t-pred/blob/main/model_better/bert/loss_curve_train.png)
 ![](https://github.com/LuoMole/t-pred/blob/main/model_better/bert/auc_val.png)
+
+
+
 6: The GUI and web service for t-pred is coming
