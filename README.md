@@ -32,7 +32,8 @@ such as
 ![](https://github.com/LuoMole/t-pred/blob/main/model_better/bert/auc_val.png)
 
 
-6: To get access to the GUI, please download the GUI.exe, which is available at https://1drv.ms/u/c/d530cdfc41614d1d/ERVdeEDAeMJDmdOGorG7nWUBGPC-7PMoP6loHxaJCWhtiw?e=yvufmM .
+6: To get access to the GUI, please download the GUI.exe, which is available at 
+https://1drv.ms/u/c/d530cdfc41614d1d/EcaojBMdm2tDjcDffcydfGkBB_1sbyMsm-KWDUyS39vrJg?e=dEG5Qd.
 
 Please ensure that the exe and model files are under the same folder.
 
