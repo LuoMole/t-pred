@@ -37,6 +37,11 @@ such as
 Please ensure that the exe and model files are under the same folder.
 
 After submitting the relative path, TCR, and epitope data of the model, click the "提交" button to obtain the prediction results.
+！！！！！！
+Gpu is necessary for your device to run the GUI
+！！！！！！
+
+
 Following are some usage scenarios of the GUI.
 
 ![](https://github.com/LuoMole/t-pred/blob/main/fig/af4010e7e0cb7f2c8563f07281a3032.png)
